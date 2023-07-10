@@ -1,0 +1,607 @@
+@media (min-width: 1281px) and (max-width: 1366px){
+.services-image {
+    width: 29%;
+}
+.services-bg{
+	background-size:unset;
+	width:33%;
+}
+.contact-image {
+	 left: 90px;
+}
+}
+@media (min-width: 1200px) and (max-width: 1280px){
+.services-image {
+    background-color:transparent;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 28%;
+}
+.services-image {
+    width: 29%;
+}
+.services-bg{
+	background-size:unset;
+	width:33%;
+}
+.contact-image {
+	 left: 90px;
+}
+}
+/***************************************************/
+/************** iPad Pro 1024px *****************/
+/***************************************************/
+@media (min-width: 1024px) and (max-width: 1199px){
+.contact-image {
+    left: 0px;
+    width: 60%;
+}
+.sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {
+    margin: 0px 0px 0px 20px;
+}
+.sm-clean a.has-submenu {
+    padding-right: 10px;
+}
+.sticky .sm-clean a, .sticky .sm-clean a:hover, .sticky .sm-clean a:focus, .sticky .sm-clean a:active, .sticky .sm-clean a.highlighted {
+    padding: 8px 0px;
+    margin: 0px 14px;
+}
+.sm-clean a .sub-arrow {
+    right: -3px;
+}
+.counter-box-1 {
+    margin-left: 40px;
+}
+.counter-box-2 {
+    margin-left: 60px;
+}
+.counter-box-3 {
+    margin-left: 70px;
+}
+.services-bg{
+	display:none;
+}
+[class*=' imghvr-'] h3, [class^=imghvr-] h3 {
+    font-size: 15px;
+}
+[class*=' imghvr-'] figcaption, [class^=imghvr-] figcaption {
+    padding-top: 30%;
+}
+.client_name1 {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+#slider4 .owl-next {
+    right: 3%;
+}
+#slider4 .owl-prev {
+    left: 89%;
+}
+ul.detail_plan li {
+    font-size: 13px;
+}
+.user_name p {
+    margin: 20px 11px 20px 0px;
+}
+.single-new-project h3 {
+    font-size: 25px;
+}
+.contact_detail p {
+    font-size: 13px;
+}
+.footer_detail p {
+    font-size: 13px;
+}
+.footer_bottom p {
+    font-size: 14px;
+}
+.phone_box {
+    margin-top: 10px;
+}
+.mail_box {
+    margin-top: 11px;
+}
+.login p {
+    margin-top: 11px;
+}
+}
+
+/***************************************************/
+/************** iPad 768px *****************/
+/***************************************************/
+@media (min-width: 768px) and (max-width: 1023px) {
+.sticky .sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {
+	padding:13px 15px;
+	color:#272727;
+}
+.sticky li.last_menu a{
+	padding:12px 0px !important;
+}
+.sticky .nav-brand a {
+    padding: 12px 0px 12px 0px;
+}
+.about-bg {
+    opacity: 0.2;
+}
+.about-image {
+    width: 100%;
+}
+section.what_we_do {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.what_we_do_con h2 {
+    font-size: 16px;
+}
+.about-content {
+    padding: 40px 0px 50px;
+}
+.about_detail {
+    margin-left: 30px
+}
+.counter-box-1 {
+    margin-left: 5px;
+}
+.counter-box-2 {
+    margin-left: 30px;
+}
+.counter-box-3 {
+    margin-left: 10px;
+}
+.services-image{
+	display:none;
+}
+.client_name1 {
+    margin-left: 33%;
+    margin-right: 33%;
+}
+#slider .owl-nav{
+	display:none;
+}
+#slider4 .owl-prev {
+    left: 86%;
+}
+#slider4 .owl-next {
+    right: 3%;
+}
+.clients {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.team {
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.pricing {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.news {
+    margin-top: 40px;
+    margin-bottom: 120px;
+}
+#slider2 .owl-next {
+    right: 44%;
+}
+#slider2 .owl-prev {
+    left: 44%;
+}
+.blog_detail {
+    margin-top: 20px;
+}
+.contact-image {
+    width: 100%;
+	opacity: 0.1;
+	display:none;
+}
+.contact_form .about_detail {
+    margin-left: 0px;
+}
+.single-new-project h3 {
+    text-align: center;
+}
+.single-new-project {
+    text-align: center;
+    margin-top: 10px;
+}
+.form-subscribe .input-group{
+    width: 100%;
+}
+.carousel-caption h1 {
+    font-size: 34px;
+}
+.carousel-caption p {
+    font-size: 14px;
+    margin-top: 0px;
+}
+.slider_btn {
+    margin-top: 20px;
+}
+.projects_box {
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.more_projects {
+    margin-top: 40px;
+    text-align: center;
+}
+.pagination{
+    margin-bottom: 40px;
+}
+.error_con {
+    padding-top: 153px;
+    padding-bottom: 153px;
+}
+.sub-arrow{
+	display:block;
+}
+}
+
+/***************************************************/
+/************** iPhone6 Plus 414px *****************/
+/***************************************************/
+@media (min-width: 481px) and (max-width: 767px){
+
+.sticky .sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {
+	padding:13px 20px;
+}
+.sticky li.last_menu a{
+	padding:13px 20px; !important;
+}
+.sticky .nav-brand a {
+    padding: 12px 0px 12px 0px;
+}
+.mail_box{
+	display:none;
+}
+.social_icon{
+	display:none;
+}
+.about-image {
+    width: 100%;
+	opacity:0.3;
+}
+.about_detail {
+    margin-left: 0px;
+}
+.about-content {
+    padding: 40px 0px 50px;
+    position: relative;
+}
+.counter-box-1 {
+    margin-left: 0px;
+}
+.counter-box-2 {
+    margin-left: 0px;
+}
+.counter-box-3 {
+    margin-left: 0px;
+}
+.border_col {
+    margin-bottom: 25px;
+	border:none;
+}
+.services-image {
+    width: 100%;
+    opacity: 0.2;
+	display:none;
+}
+#slider .owl-nav {
+	display:none;
+}
+.client_name1 {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.clients {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#slider4 .owl-next {
+    top: 95%;
+    right: 39%;
+}
+#slider4 .owl-prev {
+    top: 95%;
+    left: 39%;
+}
+.team {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.pricing {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.news {
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.blog_box {
+    padding: 25px;
+    padding-top: 70px;
+}
+.blog_detail h2 {
+    font-size: 17px;
+}
+.user_name p {
+    margin: 20px 20px 0px 0px;
+}
+.user_name {
+    margin-bottom: 20px;
+}
+.blog_btn {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#slider2 .owl-next {
+    right: 38%;
+    top: 103%;
+}
+#slider2 .owl-prev {
+    left: 37%;
+    top: 103%;
+}
+.contact-image{
+	width:100%;
+	opacity:0.3;
+	display:none;
+}
+.single-new-project h3 {
+    font-size: 23px;
+    text-align: center;
+}
+.single-new-project {
+    text-align: center;
+}
+.form-subscribe .input-group {
+    width: 100%;
+}
+.footer_col {
+    margin-bottom: 30px;
+}
+.footer_bottom p {
+    font-size: 14px;
+}
+#slider1 .item img {
+    width: 60%;
+}
+.pagination{
+    margin-bottom: 40px;
+}
+.comments-area .comment{
+    padding: 30px 30px 30px 15px;
+}
+.author-thumb{
+	display:none;
+}
+.comments-area .comment-box {
+    margin-bottom: 30px;
+}
+.comeing_soon h1 {
+    font-size: 38px;
+}
+.comeing_soon p {
+    font-size: 16px;
+    text-align: center;
+}
+.box {
+    display: block;
+    margin-bottom: 10px;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 39%;
+    height: 143px;
+    border-radius: 50%;
+    padding-top: 10px;
+    margin: 15px;
+    float: left;
+}
+#js-clock {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+}
+.form-subscribe {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.sub-arrow{
+	display:block;
+}
+}
+
+/***************************************************/
+/************** iPhone6 Plus 414px *****************/
+/***************************************************/
+@media (min-width: 320px) and (max-width: 480px) {
+.sticky .sm-clean a, .sm-clean a:hover, .sm-clean a:focus, .sm-clean a:active, .sm-clean a.highlighted {
+	padding:13px 20px;
+}
+.sticky li.last_menu a{
+	padding:13px 20px; !important;
+}
+.sticky .nav-brand a {
+    padding: 12px 0px 12px 0px;
+}
+.mail_box{
+	display:none;
+}
+.social_icon{
+	display:none;
+}
+.about-image {
+    width: 100%;
+	opacity:0.3;
+}
+.about_detail {
+    margin-left: 0px;
+}
+.about-content {
+    padding: 40px 0px 50px;
+    position: relative;
+}
+.counter-box-1 {
+    margin-left: 0px;
+}
+.counter-box-2 {
+    margin-left: 0px;
+}
+.counter-box-3 {
+    margin-left: 0px;
+}
+.border_col {
+    margin-bottom: 25px;
+	border:none;
+}
+.services-image {
+    width: 100%;
+    opacity: 0.2;
+	display:none;
+}
+#slider .owl-nav {
+	display:none;
+}
+.client_name1 {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.clients {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#slider4 .owl-next {
+    top: 95%;
+    right: 39%;
+}
+#slider4 .owl-prev {
+    top: 95%;
+    left: 39%;
+}
+.team {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.pricing {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.news {
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.blog_box {
+    padding: 25px;
+    padding-top: 70px;
+}
+.blog_detail h2 {
+    font-size: 17px;
+}
+.user_name p {
+    margin: 20px 20px 0px 0px;
+}
+.user_name {
+    margin-bottom: 20px;
+}
+.blog_btn {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#slider2 .owl-next {
+    right: 38%;
+    top: 103%;
+}
+#slider2 .owl-prev {
+    left: 37%;
+    top: 103%;
+}
+.contact-image{
+	width:100%;
+	display:none;
+	opacity:0.3;
+}
+.single-new-project h3 {
+    font-size: 23px;
+    text-align: center;
+}
+.single-new-project {
+    text-align: center;
+}
+.form-subscribe .input-group {
+    width: 100%;
+	margin-top:20px;
+}
+.footer_col {
+    margin-bottom: 30px;
+}
+.footer_bottom p {
+    font-size: 14px;
+}
+#slider1 .item img {
+    width: 60%;
+}
+.pagination{
+    margin-bottom: 40px;
+}
+.comments-area .comment{
+    padding: 30px 30px 30px 15px;
+}
+.author-thumb{
+	display:none;
+}
+.comments-area .comment-box {
+    margin-bottom: 30px;
+}
+.error_con h1 {
+    font-size: 40px;
+}
+.error_con img {
+    width: 50%;
+}
+.error_con {
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.comeing_soon h1 {
+    font-size: 38px;
+}
+.comeing_soon p {
+    font-size: 16px;
+    text-align: center;
+}
+.box {
+    display: block;
+    margin-bottom: 10px;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 39%;
+    height: 113px;
+    border-radius: 50%;
+    padding-top: 10px;
+    margin: 15px;
+    float: left;
+}
+#js-clock {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+}
+.form-subscribe {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.achievements {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.sub-arrow{
+	display:block;
+}
+}
+
+
+
+
+
